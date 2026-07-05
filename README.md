@@ -107,7 +107,7 @@ Currently learning the basics of LLMOps, Kubernetes, Prometheus, and Grafana to 
 
 <div align="center">
 
-<img src="assets/aws-academy-graduate-cloud-foundations-training.png" width="180" alt="AWS Academy Cloud Foundations Badge"/>
+<img src="assets/aws-academy-graduate-cloud-foundations-training-bad.png" width="180" alt="AWS Academy Cloud Foundations Badge"/>
 
 <br><br>
 

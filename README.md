@@ -2,7 +2,7 @@
 
 # Hi, I'm Rufina 👋  
 
-### AI • Backend • Cloud • Full-Stack Projects  
+### AI • Cloud • Full-Stack Projects  
 
 I build practical software ideas — from AI/ML experiments and LLM APIs  
 to backend systems, cloud deployments, and working project demos.

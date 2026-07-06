@@ -103,7 +103,7 @@ I have worked with AWS services through backend/API deployment, authentication, 
 Currently learning the basics of LLMOps, Kubernetes, Prometheus, and Grafana to better understand deployment, monitoring, and production-ready AI systems.
 </p>
 
-## Badges & Recognition
+## Badges
 
 <div align="center">
 
